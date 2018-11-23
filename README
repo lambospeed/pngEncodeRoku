@@ -11,9 +11,6 @@ ported by Troy Davis(GPF) http://gpf.dcemu.co.uk
 
 'from Minimal PNG encoder to create PNG streams (and MIDP images) from RGBA arrays.
 ' 
-' Copyright 2006-2009 Christian Fröschlin
-'
-' www.chrfr.de
 
 uses librokudev - https://github.com/rokudev/librokudev
 
